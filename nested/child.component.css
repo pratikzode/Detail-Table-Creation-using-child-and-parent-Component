@@ -1,0 +1,30 @@
+h3{
+
+    color:darkred;
+    font-family: cursive;
+
+}
+table{
+    
+    border:5px groove black;
+
+}
+
+td, th{
+
+    border: 1px solid black;
+}
+
+tr:nth-child(even){
+
+    background-color:yellow;
+    color:navy
+
+}
+
+tr:nth-child(odd){
+
+    background-color:lightblue;
+    color:navy;
+
+}
